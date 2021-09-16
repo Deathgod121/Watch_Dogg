@@ -19,7 +19,7 @@ pip Pushbullet
 
 
 
-First run the configuration_scipt:
+First run the configuration.py scipt:
 
 Please read the code comments and follow the step to configure there.
 
