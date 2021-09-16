@@ -9,8 +9,11 @@ I created a small Python script that i use to alert me when my duty finder pops.
 Prerequisites:
 
 Python 3.6+ (I think at least can try your luck!)
+
 pip NumPy
+
 pip pyAutoGUI 
+
 pip Pushbullet
 
 
