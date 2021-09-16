@@ -10,7 +10,7 @@ Prerequisites:
 
 Python 3.6+ (I think at least can try your luck!)
 pip NumPy
-pip pyAutoGUI
+pip pyAutoGUI 
 pip Pushbullet
 
 
