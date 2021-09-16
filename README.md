@@ -17,4 +17,28 @@ pip pyAutoGUI
 pip Pushbullet
 
 
-First run configuration:
+
+
+First run the configuration_scipt:
+
+Please read the code comments and follow the step to configure there.
+
+
+
+
+Once configured:
+
+Create a batch file to run your script. Open a text Editor and paste the contents below into it (remember to replace tokens). Save file as <file_name>.bat:
+
+"<OPTIONAL* path to python.exe>" "<path to script file>/watch_dogg.py"
+  
+ 
+EG: "C:/Program Files/Python39/python.exe" "e:/pyth/projects/ffxiv/watch_dogg.py"
+  
+  
+* Note the path is optional incase you dont have the environment variable defined. Otherwise python <path> is fine.
+  
+  
+
+  
+To start the script just double click the bat file. To stop simply close the window.
