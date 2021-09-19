@@ -36,7 +36,7 @@ Step 2: Open the cords.txt file and keep this open as this will be our way of ad
 Step 3: Run the 1_Configure.py script, with the following command from a command prompt window: python "<path_to_py_file>" "<path_to_cords.txt_file>"
         - Eg: python "C:/examples/watch_dogg/1_configure.py" "C:/examples/watch_dogg/cords.txt"
         
-Step 4: You will see a small display window that will show you what we section of screen we are capturing. You can adjust the values in the cords.txt file and save the file to update the output window.
+Step 4: You will see a small display window that will show you what the section of screen we are capturing is currently. You can adjust the values in the cords.txt file and save the file to update the output window.
 
 Step 5: Position the output window on the section of screen you want to capture as the ideal image to match to. Once you are happy with the window size and position close the script with ctrl+c or by pressing q on the output window.
 
@@ -49,9 +49,9 @@ Step 7: Create a push bullet account (https://www.pushbullet.com/) then click se
 
 Step 8: On your computer on your push bullet account, go to settings and click create access token. Copy this token.
 
-Step 9: Open the file 3_Watch_dogg.py with a text editor of your choice and and configure the section on lines 14, 17, 20 and 23. Save the changes once you are done.
+Step 9: Open the file 3_Watch_dogg.py with a text editor of your choice and configure the section on lines 14, 17, 20 and 23. Save the changes once you are done.
 
-Step 8: Creating a executable file for the file script this will make launching it easier. To do this create a new txt file and give it a name, watch_dogg.bat then in this file paste the following: python "<path_to_3_watch_dogg.py_file>" "<path_to_cords.txt_file>"
+Step 8: Creating a executable file for the script this will make launching it easier. To do this create a new txt file and give it a name, watch_dogg.bat then in this file paste the following: python "<path_to_3_watch_dogg.py_file>" "<path_to_cords.txt_file>"
    - Eg: python "C:/examples/watch_dogg/3_Watch_dogg.py" "C:/examples/watch_dogg/cords.txt"
 
 This will create a batch file that we can double click to run the script.
