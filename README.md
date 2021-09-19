@@ -59,4 +59,6 @@ This will create a batch file that we can double click to run the script.
 Step 9: Run your batch file and leave open. Whenever a match is found a alert will be sent to your phone. 
 
 
+
+
 There is no error handling what so ever so please be sure to follow all steps carefully as debugging will be a nightmare...
