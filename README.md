@@ -45,7 +45,7 @@ Step 6: Run the 2_Save.py script, with the following command from a command prom
         
 Follow the prompts this will now save the image for comparison later. A preview of the saved image will be displayed to be sure you are happy with the intended comparitor. This will create a new file at the same location as the cord.txt file with the extention "MATCH_FOUND_ARRAY_DO_NOT_REMOVE_ME.npy", plase do not remove this file.
 
-Step 7: Create a push bullet account (ttps://www.pushbullet.com/) then click setup your phone and configure your phone with push bullet.
+Step 7: Create a push bullet account (https://www.pushbullet.com/) then click setup your phone and configure your phone with push bullet.
 
 Step 8: On your computer on your push bullet account, go to settings and click create access token. Copy this token.
 
