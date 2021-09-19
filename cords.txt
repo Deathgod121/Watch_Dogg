@@ -1,0 +1,9 @@
+Adjust the values in this document and click save to have the display window update. keep values in the lines they are now.
+Adjust the value below to make the box wider or thinner
+50
+Adjust the value below to make the box taller or shorter
+50
+Adjust the value to move up and down (Smaller --> Up, Bigger --> Down)
+200
+Adjust the value to move left and right (Smaller --> Left, Bigger --> Right)
+400
